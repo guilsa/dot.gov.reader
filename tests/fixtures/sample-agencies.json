@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Department of Energy",
+    "short_name": "DOE",
+    "slug": "department-of-energy",
+    "url": "https://www.energy.gov",
+    "cfr_references": [
+      {
+        "title": 10,
+        "chapter": "II"
+      },
+      {
+        "title": 10,
+        "chapter": "III"
+      }
+    ]
+  },
+  {
+    "name": "Securities and Exchange Commission",
+    "short_name": "SEC",
+    "slug": "securities-and-exchange-commission",
+    "url": "https://www.sec.gov",
+    "cfr_references": [
+      {
+        "title": 17,
+        "chapter": "II"
+      }
+    ]
+  },
+  {
+    "name": "Commodity Futures Trading Commission",
+    "short_name": "CFTC",
+    "slug": "commodity-futures-trading-commission",
+    "url": "https://www.cftc.gov",
+    "cfr_references": [
+      {
+        "title": 17,
+        "chapter": "I"
+      }
+    ]
+  }
+]

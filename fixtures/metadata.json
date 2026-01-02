@@ -1,0 +1,30 @@
+{
+  "lastUpdated": "2026-01-02T20:16:00.839Z",
+  "downloads": [
+    {
+      "type": "agencies",
+      "timestamp": "2026-01-02T20:14:16.107Z",
+      "status": "success"
+    },
+    {
+      "type": "titles-summary",
+      "timestamp": "2026-01-02T20:14:39.486Z",
+      "status": "success"
+    },
+    {
+      "type": "title",
+      "timestamp": "2026-01-02T20:15:03.477Z",
+      "title": 17,
+      "date": "2026-01-02",
+      "status": "partial",
+      "error": "Failed to fetch structure: Failed to fetch title structure: 404 Not Found; Failed to fetch XML: Failed to fetch title XML: 404 Not Found"
+    },
+    {
+      "type": "title",
+      "timestamp": "2026-01-02T20:16:00.839Z",
+      "title": 17,
+      "date": "2025-12-30",
+      "status": "success"
+    }
+  ]
+}

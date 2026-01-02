@@ -1,0 +1,57 @@
+{
+  "title": 17,
+  "identifier": "CFR-2025-title17",
+  "type": "title",
+  "label": "Title 17 - Commodity and Securities Exchanges",
+  "children": [
+    {
+      "identifier": "CFR-2025-title17-chap1",
+      "type": "chapter",
+      "label": "Chapter I - Commodity Futures Trading Commission",
+      "children": [
+        {
+          "identifier": "CFR-2025-title17-chap1-part1",
+          "type": "part",
+          "label": "Part 1 - General Regulations",
+          "children": [
+            {
+              "identifier": "CFR-2025-title17-chap1-part1-sec1",
+              "type": "section",
+              "section_number": "1.1",
+              "label": "§ 1.1 Definitions",
+              "content": "For the purposes of this chapter, the following terms shall have the meanings indicated. This is a sample section with approximately fifty words to demonstrate word counting functionality in our analysis tools. Additional regulatory text would normally appear here providing detailed definitions and explanations."
+            },
+            {
+              "identifier": "CFR-2025-title17-chap1-part1-sec2",
+              "type": "section",
+              "section_number": "1.2",
+              "label": "§ 1.2 Scope of regulations",
+              "content": "These regulations apply to all registered entities and market participants. This section contains sample text for testing purposes with enough words to validate our word counting algorithms work correctly across multiple sections and hierarchical levels."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "CFR-2025-title17-chap2",
+      "type": "chapter",
+      "label": "Chapter II - Securities and Exchange Commission",
+      "children": [
+        {
+          "identifier": "CFR-2025-title17-chap2-part200",
+          "type": "part",
+          "label": "Part 200 - Organization; Conduct and Ethics",
+          "children": [
+            {
+              "identifier": "CFR-2025-title17-chap2-part200-sec1",
+              "type": "section",
+              "section_number": "200.1",
+              "label": "§ 200.1 Organization of the Commission",
+              "content": "The Securities and Exchange Commission is organized into various divisions and offices. This sample section demonstrates hierarchical structure and provides test data for our analysis functions including word count metrics."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
