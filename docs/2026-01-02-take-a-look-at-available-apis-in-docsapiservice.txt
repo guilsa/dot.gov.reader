@@ -7,7 +7,7 @@
 │                    * ▝▜█████▛▘ *                   │ Recent activity         │
 │                     *  ▘▘ ▝▝  *                    │ No recent activity      │
 │                                                    │                         │
-│  Sonnet 4.5 · Claude Pro · guilsa001@gmail.com's   │                         │
+│  Sonnet 4.5 · Claude Pro · my_email@gmail.com's   │                         │
 │  Organization                                      │                         │
 │                ~/dev/dot.gov.reader                │                         │
 ╰──────────────────────────────────────────────────────────────────────────────╯
@@ -1648,7 +1648,7 @@ nextjs project.
      … +40 lines (ctrl+o to expand)
 
 ⏺ Bash(git log -1 --format='%an %ae %s')
-  ⎿  Guil Sa guilsa001@gmail.com Initial commit from Create Next App
+  ⎿  Guil Sa my_email@gmail.com Initial commit from Create Next App
 
 ⏺ Bash(git add .)
   ⎿  (No content)
@@ -1669,7 +1669,7 @@ nextjs project.
 
 ⏺ Bash(git log -1 --stat)
   ⎿  commit b9d6533764168a8199a426f37a434072b2db2ace
-     Author: Guil Sa <guilsa001@gmail.com>
+     Author: Guil Sa <my_email@gmail.com>
      Date:   Fri Jan 2 17:52:00 2026 -0300
      … +97 lines (ctrl+o to expand)
 
